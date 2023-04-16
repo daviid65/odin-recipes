@@ -1,2 +1,4 @@
 # odin-recipes
-This Project is designed to build a large recipes website with HTML and CSS
+This Project is designed to build a large recipe website with HTML and CSS
+
+More description follows...
