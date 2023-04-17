@@ -57,3 +57,30 @@ img {
     object-fit: cover;
     object-position: center;
 }
+
+.recipe-container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: bisque;
+}
+
+.button {
+    width: 240px;
+    padding: 12px 24px;
+    border: 1px solid black;
+    box-shadow: 12px 2px black;
+    font-size: 24px;
+    transition: all 200ms ease-in-out;
+}
+
+.btn-color {
+    text-align: center;
+    color: rgb(60, 22, 164);
+}
+
+.button:hover {
+    transform: scale(1.04);
+}
